@@ -103,7 +103,8 @@ analytics:
 author:
   name             : "Cononi's"
   avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "오늘도 방문해주신 **훌륭한** 분들께. 감사합니다 :)"
+  bio              : "오늘도 방문해주신 **훌륭한** 분들께  
+                      감사합니다 :)"
   location         : "Somewhere"
   email            :
   links:
