@@ -1,14 +1,29 @@
 # main links
 main:
   - title : "Home"
-    url: Cononi.github.io
-  - title: "Categories"
+    url: https://Cononi.github.io
+  - title: "Category"
     url: /categories/
+  - title: "Year"
+    url: /year-archive/
+  - title: "Tags"
+    url: /tags/
   # - title: "About"
   #   url: https://mmistakes.github.io/minimal-mistakes/about/
-  # - title: "Sample Posts"
-  #   url: /year-archive/
   # - title: "Sample Collections"
   #   url: /collection-archive/
   # - title: "Sitemap"
   #   url: /sitemap/
+
+  # sidebar navigation list sample
+sidebar-profile:
+  - title: "Parent Page A"
+    children:
+      - title: "1"
+        url: /archive-layout-with-content/
+      - title: "2"
+        url: /categories/edge-case-grid/
+      - title: "3"
+        url: /markup/
+      - title: "Child Page A4"
+        url: /child-page-a4/
