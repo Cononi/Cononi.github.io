@@ -1,9 +1,10 @@
 ---
-title: "코드 테스트"
-layout: archive
+title: "백준 문제집"
+layout: codetest-tags
 permalink: /categories/Codetest/
 author_profile: true
+tag_option : true
+tag_non_click : true
 ---
 
-{% assign posts = site.categories.Codetest %}
-{% include category-listline.html %}
+
