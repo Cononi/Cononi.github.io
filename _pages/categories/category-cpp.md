@@ -5,5 +5,5 @@ permalink: /categories/CPP/
 author_profile: true
 sidebar_main: true
 ---
-{% assign posts = site.categories.C %}
+{% assign posts = site.categories.CPP %}
 {% include category-listline.html %}

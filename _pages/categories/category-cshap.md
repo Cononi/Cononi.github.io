@@ -5,5 +5,5 @@ permalink: /categories/CShap/
 author_profile: true
 sidebar_main: true
 ---
-{% assign posts = site.categories.C %}
+{% assign posts = site.categories.CShap %}
 {% include category-listline.html %}
