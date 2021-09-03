@@ -6,7 +6,6 @@ sidebar:
   title: "Sample Title"
   nav: sidebar-profile
 ---
-<span class="nav__sub-title">{site.categories.title}</span>
 <ul class="taxonomy__index">
     {% for category in site.categories %}
        {% if site.data.categories contains category[0] %}
