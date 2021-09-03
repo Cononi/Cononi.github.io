@@ -2,7 +2,7 @@
 main:
   - title : "Home"
     url: https://Cononi.github.io
-  - title: "Category"
+  - title: "Categories"
     url: /categories/
   - title: "Year"
     url: /year-archive/
@@ -16,6 +16,7 @@ main:
   #   url: /sitemap/
 
   # sidebar navigation list sample
+  
 sidebar-profile:
   - title: "Parent Page A"
     children:
