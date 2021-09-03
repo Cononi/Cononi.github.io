@@ -253,6 +253,9 @@ category_archive:
 tag_archive:
   type: liquid
   path: /tags/
+tag_archive2:
+  type: liquid
+  path: /codetest-tags/
 # https://github.com/jekyll/jekyll-archives
 # jekyll-archives:
 #   enabled:
@@ -293,4 +296,4 @@ defaults:
       type: pages
     values:
       layout: single
-      category_option: true
+      category_option: false
