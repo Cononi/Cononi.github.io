@@ -256,6 +256,9 @@ tag_archive:
 tag_archive2:
   type: liquid
   path: /codetest-tags/
+archive-tags:
+  type: liquid
+  path: /archive-tags/
 # https://github.com/jekyll/jekyll-archives
 # jekyll-archives:
 #   enabled:
