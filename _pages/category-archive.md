@@ -2,9 +2,9 @@
 title: "Posts by Category"
 permalink: /categories/
 author_profile: true
-sidebar:
-  title: "Sample Title"
-  nav: sidebar-profile
+#sidebar:
+#  title: "Sample Title"
+#  nav: sidebar-profile
 ---
 <ul class="taxonomy__index">
     {% for category in site.categories %}
