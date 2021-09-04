@@ -1,6 +1,6 @@
 ---
-title: "백준 문제집"
-layout: codetest-tags
+title: "Code Quiz"
+layout: archive-tags
 permalink: /categories/Codetest/
 author_profile: true
 tag_option : true

@@ -1,9 +1,12 @@
 ---
 title: "C++ 프로그래밍"
-layout: archive
+layout: archive-tags
 permalink: /categories/CPP/
 author_profile: true
-sidebar_main: true
+tag_option : true
+tag_non_click : true
+tags: 
+  - BackJoon-Java
 ---
-{% assign posts = site.categories.CPP %}
-{% include category-listline.html %}
+
+

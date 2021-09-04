@@ -8,10 +8,9 @@ tag_non_click : true
 catagories:
   - C
 tags: 
-  - Notice
+  - C-Chapter1
 ---
 
-{% assign posts = site.categories.Database %}
 
 
 
