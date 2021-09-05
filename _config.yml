@@ -19,7 +19,7 @@ locale                   : "ko-KR"
 title                    : "Cononi의 기록실"
 title_separator          : "-"
 subtitle                 : "Version 1.0" # site tagline that appears below site title in masthead
-name                     : "전홍우"
+name                     : "코노니"
 description              : "다양하 개발을 목적으로 이슈, 에러사항등을 공부하는 블로그"
 url                      : "https://Cononi.github.io" # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
