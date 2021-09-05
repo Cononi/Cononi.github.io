@@ -24,7 +24,6 @@
             {% assign path_type = nil %}
     {% endcase %}
     {% endif %}
-
     {%- if site.category_archive.path and site.tag_archive.path -%}
         {%- capture post_categories -%}{%- for category in post.categories -%}{{ category | downcase }}|{{ category }}{%- unless forloop.last -%},{%- endunless -%}{%- endfor -%}{%- endcapture -%}
         {%- assign category_hashes = post_categories | split: ',' | sort -%}
