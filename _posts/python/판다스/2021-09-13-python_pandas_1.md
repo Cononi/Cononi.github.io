@@ -5,6 +5,7 @@ categories:
 tags:
    - Pandas
    - 데이터 집합 불러오기
+   - 공부
 date: 2021-09-13T22:26:10+09:00 #작성일자
 last_modified_at: 2021-09-13 #업데이트날짜.
 #toc: true # 퀵메뉴 활성화
