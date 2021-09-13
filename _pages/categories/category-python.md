@@ -1,5 +1,5 @@
 ---
-title: "Python 프록래밍"
+title: "Python Note"
 layout: archive-tags
 permalink: /categories/Python/
 author_profile: true
