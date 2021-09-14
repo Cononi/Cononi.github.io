@@ -4,10 +4,10 @@ categories:
    - Python
 tags:
    - Pandas
-   - 데이터 집합 불러오기
+   - 판다스 시작하기
    - 공부
 date: 2021-09-13T22:26:10+09:00 #작성일자
-last_modified_at: 2021-09-13 #업데이트날짜.
+last_modified_at: 2021-09-14 #업데이트날짜.
 #toc: true # 퀵메뉴 활성화
 #toc_label: "안녕하세요" # 퀵메뉴 이름
 #toc_sticky: true # 퀵메뉴 고정할것인지?
@@ -22,6 +22,7 @@ last_modified_at: 2021-09-13 #업데이트날짜.
  	* 추가 포함 - Rainbow CSV, Visual Studio intelliCode
  *   pip 설치 확인
  	* pip(pip3) install pandas 설치. 
+ * [pandas 실습자료 다운로드](https://github.com/easysIT/doit_pandas)
  
  
 ## ✅ <u>import</u>
