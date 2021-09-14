@@ -5,7 +5,7 @@ categories:
 tags:
    - Pandas
    - 판다스 시작하기
-   	- 공부
+   - 공부
 date: 2021-09-14T23:38:55+09:00 #작성일자
 last_modified_at: 2021-09-14 #업데이트날짜.
 #toc: true # 퀵메뉴 활성화
@@ -14,8 +14,8 @@ last_modified_at: 2021-09-14 #업데이트날짜.
 # other options
 ---
 
- > # 📜 <u>Mac, VS Code에서 작성되었습니다.</u> 
- > ## <u>📌 체크 사항</u> 
+> # 📜 <u>Mac, VS Code에서 작성되었습니다.</u> 
+> ## <u>📌 체크 사항</u> 
  * python 3.8.8 버전
  *  VS Code Extension 확인
 	* Python, Pylance, Python Extension Pack, Python for VSCode
