@@ -1,12 +1,12 @@
 ---
-title : "[2021-09-15] 일일 자신 보고서"
+title : "[2021-09-14] 일일 자신 보고서"
 categories:
   - dailylist
 tags:
   - 2021-09
 
-date: 2021-09-15T00:48:26+09:00 #작성일자
-last_modified_at: 2021-09-15 #업데이트날짜.
+date: 2021-09-14T00:48:26+09:00 #작성일자
+last_modified_at: 2021-09-14 #업데이트날짜.
 #toc: true
 #toc_label: "안녕하세요"
 #toc_sticky: true 고정할것인지?
