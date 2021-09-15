@@ -5,7 +5,7 @@ categories:
 tags:
    - Pandas
    - 판다스 시작하기
-   	- 공부
+   - 공부
 date: 2021-09-15T23:38:55+09:00 #작성일자
 last_modified_at: 2021-09-15 #업데이트날짜.
 #toc: true # 퀵메뉴 활성화
