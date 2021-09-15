@@ -1,7 +1,7 @@
 ---
 title: "Notice"
 layout: archive-tags
-permalink: /categories/Issue/
+permalink: /categories/issue/
 author_profile: true
 tag_option : true
 tag_non_click : true

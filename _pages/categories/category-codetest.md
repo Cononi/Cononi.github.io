@@ -1,7 +1,7 @@
 ---
 title: "Code Quiz"
 layout: archive-tags
-permalink: /categories/Codetest/
+permalink: /categories/codetest/
 author_profile: true
 tag_option : true
 tag_non_click : true

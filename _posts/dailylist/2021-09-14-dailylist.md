@@ -1,7 +1,7 @@
 ---
 title : "[2021-09-14] 일일 자신 보고서"
 categories:
-  - Dailylist
+  - dailylist
 tags:
   - 2021-09
 

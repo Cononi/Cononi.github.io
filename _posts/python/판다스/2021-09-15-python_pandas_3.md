@@ -1,7 +1,7 @@
 ---
 title : "[pandas] 기초적인 통계 계산하기"
 categories:
-   - Python
+   - python
 tags:
    - Pandas
    - 판다스 시작하기

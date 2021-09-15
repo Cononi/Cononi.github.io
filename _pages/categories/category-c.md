@@ -1,7 +1,7 @@
 ---
 title: "C 프로그래밍"
 layout: archive-tags
-permalink: /categories/C/
+permalink: /categories/c/
 author_profile: true
 tag_option : true
 tag_non_click : true

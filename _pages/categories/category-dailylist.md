@@ -1,7 +1,7 @@
 ---
 title: "일일 목표"
 layout: archive-tags
-permalink: /categories/Dailylist/
+permalink: /categories/dailylist/
 author_profile: true
 tag_option : true
 tag_non_click : true

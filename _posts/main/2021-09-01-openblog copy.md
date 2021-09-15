@@ -1,7 +1,7 @@
 ﻿---
 title : "[Notice] 오늘 개설했습니다."
 categories:
-  - Main
+  - main
 tags:
   - Notice
 

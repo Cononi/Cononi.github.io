@@ -1,7 +1,7 @@
 ---
 title : "[pandas] 데이터 집합 불러오기"
 categories:
-   - Python
+   - python
 tags:
    - Pandas
    - 판다스 시작하기

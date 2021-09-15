@@ -1,7 +1,7 @@
 ---
 title : "[pandas] 데이터 추출하기"
 categories:
-   - Python
+   - python
 tags:
    - Pandas
    - 판다스 시작하기
