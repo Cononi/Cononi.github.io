@@ -1,7 +1,7 @@
 ---
 title : "[pandas] 간단한 그래프 그리기"
 categories:
-   - Python
+   - python
 tags:
    - Pandas
    - 판다스 시작하기
