@@ -1,9 +1,11 @@
 ---
 title : "[Java/Spring] 네이버 클라우드 SMS서비스 구축 - 1"
 categories:
-  - dailylist
+  - java
 tags:
-  - 2021-09
+  - Java
+  - Spring Legacy
+  - Naver CLoud API SENS
 
 date: 2021-12-18T13:13:20+09:00 #작성일자
 last_modified_at: 2021-12-18 #업데이트날짜.
