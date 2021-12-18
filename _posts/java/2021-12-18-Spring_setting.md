@@ -4,8 +4,7 @@ categories:
    - java
 tags:
    - Java
-   - Spring Legacy
-   - Naver Cloud API SENS
+
 date: 2021-12-18T13:43:20+09:00 #작성일자
 last_modified_at: 2021-12-18 #업데이트날짜.
 #toc: true # 퀵메뉴 활성화
