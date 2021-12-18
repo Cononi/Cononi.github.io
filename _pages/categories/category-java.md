@@ -6,9 +6,8 @@ author_profile: true
 tag_option : true
 tag_non_click : true
 tags: 
-  - BackJoon Java
-  - 사칙연산
   - Java
+  - 사칙연산
   - Spring Legacy
 ---
 
