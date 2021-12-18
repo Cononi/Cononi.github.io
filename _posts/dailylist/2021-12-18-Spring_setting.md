@@ -1,11 +1,11 @@
 ---
 title : "[Java/Spring] 네이버 클라우드 SMS서비스 구축 - 1"
 categories:
-   - dailylist
+  - dailylist
 tags:
-   - 2021-09
+  - 2021-09
 
-date: 2021-12-18T13:43:20+09:00 #작성일자
+date: 2021-12-18T13:13:20+09:00 #작성일자
 last_modified_at: 2021-12-18 #업데이트날짜.
 #toc: true # 퀵메뉴 활성화
 #toc_label: "안녕하세요" # 퀵메뉴 이름
