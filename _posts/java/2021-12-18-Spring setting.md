@@ -3,7 +3,7 @@ title : "[Java/Spring] 네이버 클라우드 SMS서비스 구축 - 1"
 categories:
    - java
 tags:
-   - java
+   - Java
    - Spring Legacy
    - Naver Cloud API SENS
    - 
